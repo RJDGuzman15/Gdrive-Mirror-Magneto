@@ -1,16 +1,16 @@
 {
-    "name": "Python-Drive-Bot",
+    "name": "Safone-Drive-Bot",
     "description": "Telegram-Direct-Mirror to G-Drive",
-    "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
+    "logo": "https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/14-utorrent-512.png",
     "keywords": [
       "telegram",
       "bot",
       "aria",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
-    "website": "https://t.me/linux_repo",
-    "success_url": "https://t.me/linux_repo",
+    "repository": "https://github.com/AsmSafone/Gdrive-Mirror-Magneto.git",
+    "website": "https://t.me/safothebot",
+    "success_url": "https://t.me/safothebot",
     "stack": "container",
     "env": {
       "ENV": {
