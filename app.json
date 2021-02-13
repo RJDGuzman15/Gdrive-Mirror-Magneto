@@ -9,8 +9,8 @@
       "python"
     ],
     "repository": "https://github.com/AsmSafone/Gdrive-Mirror-Magneto.git",
-    "website": "https://t.me/safothebot",
-    "success_url": "https://t.me/safothebot",
+    "website": "https://github.com/AsmSafone",
+    "success_url": "https://github.com/AsmSafone/Gdrive-Mirror-Magneto",
     "stack": "container",
     "env": {
       "ENV": {
